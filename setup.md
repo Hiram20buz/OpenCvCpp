@@ -59,5 +59,20 @@ add_executable(MyProject tutorial.cpp)
 target_link_libraries(MyProject ${OpenCV_LIBS})
 ```
 
-
 <img width="1041" alt="Screen Shot 2023-12-03 at 22 23 07" src="https://github.com/Hiram20buz/OpenCvCpp/assets/112133798/adcd0b38-218e-4670-8586-107ce1887645">
+
+## Now run the next commands
+
+```
+mkdir build
+cd build
+cmake ..
+```
+
+Now save this code inside the tutorial.cpp
+```
+mkdir build
+cd build
+cmake ..
+```
+
