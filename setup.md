@@ -140,5 +140,7 @@ make
 Do the "make" command AFTER you have pasted the code into the script and have saved it.
 
 ## Result
+<img width="1670" alt="Screen Shot 2023-12-03 at 22 41 31" src="https://github.com/Hiram20buz/OpenCvCpp/assets/112133798/fbbd3c39-8680-442e-87fd-4e923311254f">
 
+<img width="1010" alt="Screen Shot 2023-12-03 at 22 42 47" src="https://github.com/Hiram20buz/OpenCvCpp/assets/112133798/44f32576-12cf-4371-af14-51c2238e5975">
 
