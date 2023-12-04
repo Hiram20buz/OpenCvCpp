@@ -1,0 +1,42 @@
+# Setup for Mac Os
+
+## Visual Studio Code
+https://code.visualstudio.com/download
+
+## C ++
+Check if cpp is already installed
+
+### Check Compiler: 
+Type the following command and press Enter:
+```
+g++ --version
+```
+This command checks if the GNU Compiler Collection for C++ (g++) is installed and displays its version if it is available. 
+
+If it's installed, you'll see information about the installed version. If it's not installed, you'll likely get a message indicating that the command is not found or installed.
+
+### Xcode Command Line Tools:
+If you don't have the GNU Compiler Collection installed, you might need to install Xcode Command Line Tools. To do this, type the following command in the Terminal and press Enter:
+```
+xcode-select --install
+```
+This command will prompt you to install the Xcode Command Line Tools if they are not already installed. Follow the on-screen instructions to complete the installation.
+
+Once you've followed these steps, you should have the necessary C++ compiler installed on your Mac, and you can start writing and compiling C++ programs using the Terminal.
+
+## OpenCv
+### Install OpenCV: 
+If you haven't installed OpenCV yet, you can do so using Homebrew or by manually compiling from the source. Using Homebrew is the simpler method:
+
+Open Terminal and execute the following commands:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install opencv
+
+```
+
+## Create a folder on your desktop or wherever you want
+Go to desktop and create a folder manually or using the terminal
+```
+mkdir cppProject
+```
