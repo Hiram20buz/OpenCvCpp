@@ -144,3 +144,24 @@ Do the "make" command AFTER you have pasted the code into the script and have sa
 
 <img width="1010" alt="Screen Shot 2023-12-03 at 22 42 47" src="https://github.com/Hiram20buz/OpenCvCpp/assets/112133798/44f32576-12cf-4371-af14-51c2238e5975">
 
+## Resources
+```
+How to Setup OpenCV for C++ on Visual Studio Code (MacOS)
+https://www.youtube.com/watch?v=Ozc3zWJ_NhQ
+https://github.com/Infatoshi/opencv-setup/tree/main/opencv-setup
+
+Step-by-Step Guide: Installing OpenCV C++ and Setting It Up in Visual Studio Code with CMake
+https://www.youtube.com/watch?v=m9HBM1m_EMU&list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn&index=2
+
+How To Install OpenCV in Visual Studio Code (Mac)
+https://www.youtube.com/watch?v=WPYXCetQI1k
+
+
+[4 Solutions] – to fix “cmake: command not found” error in macOS, Linux and Windows
+https://cloudlinuxtech.com/fix-cmake-command-not-found-error/
+
+Sample MP4 video files
+https://samplelib.com/sample-mp4.html#google_vignette
+
+```
+
