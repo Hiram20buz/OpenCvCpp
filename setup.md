@@ -40,3 +40,13 @@ Go to desktop and create a folder manually or using the terminal
 ```
 mkdir cppProject
 ```
+Drag and drop the folder into visual studio code
+
+Create a file inside the folder: tutorial.cpp
+
+Create a file name : CMakeLists.txt
+```
+touch CMakeLists.txt
+```
+
+
