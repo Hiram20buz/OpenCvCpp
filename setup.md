@@ -48,5 +48,7 @@ Create a file name : CMakeLists.txt
 ```
 touch CMakeLists.txt
 ```
+<img width="815" alt="Screen Shot 2023-12-03 at 22 21 21" src="https://github.com/Hiram20buz/OpenCvCpp/assets/112133798/2aefd327-26b0-4c6b-a011-5f5413325479">
+
 
 
