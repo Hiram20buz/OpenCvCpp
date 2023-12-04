@@ -34,6 +34,10 @@ Open Terminal and execute the following commands:
 brew install opencv
 
 ```
+## Install CMake
+```
+brew install cmake
+```
 
 ## Create a folder on your desktop or wherever you want
 Go to desktop and create a folder manually or using the terminal
@@ -120,12 +124,12 @@ int main(int argc, char** argv) {
 }
 ```
 
-## finally
+## Finally
 ```
 make
 ./MyProject
 ```
-## this is the whole Sequence 
+## This is the whole Sequence 
 ```
 mkdir build
 cd build
@@ -134,3 +138,7 @@ make
 ./MyProject
 ```
 Do the "make" command AFTER you have pasted the code into the script and have saved it.
+
+## Result
+
+
