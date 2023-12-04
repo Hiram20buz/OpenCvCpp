@@ -120,3 +120,17 @@ int main(int argc, char** argv) {
 }
 ```
 
+## finally
+```
+make
+./MyProject
+```
+## this is the whole Sequence 
+```
+mkdir build
+cd build
+cmake ..
+make
+./MyProject
+```
+Do the "make" command AFTER you have pasted the code into the script and have saved it.
