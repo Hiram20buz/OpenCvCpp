@@ -1,0 +1,3 @@
+https://medium.com/@shashikadilhani97/digital-image-thresholding-techniques-969b006c9e07
+
+https://www.geeksforgeeks.org/filter-color-with-opencv/

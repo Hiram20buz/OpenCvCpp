@@ -10,7 +10,8 @@ mkdir -p build
 cd build || exit
 
 # Run CMake to configure the build
-cmake ..
+#cmake ..
+cmake -Dvar=tutorial.cpp ..
 
 # Use 'make' to compile the project
 make
