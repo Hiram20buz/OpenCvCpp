@@ -1,3 +1,0 @@
-/Users/rxs0523/Desktop/cppProject/build/CMakeFiles/MyProject.dir
-/Users/rxs0523/Desktop/cppProject/build/CMakeFiles/edit_cache.dir
-/Users/rxs0523/Desktop/cppProject/build/CMakeFiles/rebuild_cache.dir
