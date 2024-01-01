@@ -7,7 +7,7 @@ using namespace cv;
 int main(int argc, char** argv) {
 
     // Load the video file
-    VideoCapture cap("/Users/rxs0523/OpenCvCpp/cppProject/video.mp4");
+    VideoCapture cap("cppProject/video.mp4");
 
     // Check if the video file was opened successfully
     if (!cap.isOpened()) {
